@@ -83,5 +83,4 @@ pytest --cov=app tests/
 - `GET /api/v1/job-offers/search` : Recherche dans la base de données agrégée proactivement.
 
 ---
-Développé avec ❤️ par l'équipe HonaiJob.
-# HonAiJob-BACKEDN-API-
+Développé avec ❤️ par FRANKLIN
